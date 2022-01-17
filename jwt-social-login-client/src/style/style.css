@@ -1,0 +1,16 @@
+.text-blue{
+    color: blue;
+}
+
+.zoomin:hover{
+    transform: scale(1.5,1.5);
+    transition-duration: 2s;
+}
+
+.form-check-input:checked{
+    background-color: rgb(152, 152, 240);
+    border-color: rgb(152, 152, 240);
+}
+.ml-custom{
+    margin-left: -8%;
+}
